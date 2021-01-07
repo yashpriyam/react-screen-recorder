@@ -1,0 +1,12 @@
+resource for adding save to drive (google) option
+
+resource 1:
+https://medium.com/@willikay11/how-to-link-your-react-application-with-google-drive-api-v3-list-and-search-files-2e4e036291b7
+
+resource 2:
+https://developers.google.com/drive/api/v3/savetodrive
+
+future to do:
+add option to save to other cloud storages
+think of other options to add
+think of what else is required to scale this.
